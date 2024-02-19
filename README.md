@@ -8,8 +8,6 @@
 
 Ensure you have the following dependencies installed on your system:
 
-- **TypeScript**: `version x.y.z`
-
 ### Installation
 
 1. Clone the Idea-Orbit- repository:
