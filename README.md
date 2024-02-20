@@ -13,14 +13,9 @@ https://ideaorbit.vercel.app/
     <h1 align="center">IDEA-ORBIT-</h1>
 </p>
 <p align="center">
-    <em><code>► INSERT-TEXT-HERE</code></em>
+    <em><code>► A website to note your ideas with OpenAI integration</code></em>
 </p>
-<p align="center">
-	<img src="https://img.shields.io/github/license/Khushisidanaa/Idea-Orbit-.git?style=flat&color=0080ff" alt="license">
-	<img src="https://img.shields.io/github/last-commit/Khushisidanaa/Idea-Orbit-.git?style=flat&logo=git&logoColor=white&color=0080ff" alt="last-commit">
-	<img src="https://img.shields.io/github/languages/top/Khushisidanaa/Idea-Orbit-.git?style=flat&color=0080ff" alt="repo-top-language">
-	<img src="https://img.shields.io/github/languages/count/Khushisidanaa/Idea-Orbit-.git?style=flat&color=0080ff" alt="repo-language-count">
-<p>
+
 <p align="center">
 		<em>Developed with the software and tools below.</em>
 </p>
@@ -41,23 +36,20 @@ https://ideaorbit.vercel.app/
 ## Quick Links
 
 > - [ Overview](#-overview)
-> - [ Features](#-features)
 > - [ Repository Structure](#-repository-structure)
-> - [ Modules](#-modules)
+
 > - [ Getting Started](#-getting-started)
 >   - [ Installation](#-installation)
 >   - [Running Idea-Orbit-](#-running-Idea-Orbit-)
 >   - [ Tests](#-tests)
-> - [ Project Roadmap](#-project-roadmap)
+
 > - [ Contributing](#-contributing)
-> - [ License](#-license)
-> - [ Acknowledgments](#-acknowledgments)
 
 ---
 
 ## Overview
 
-<code>► INSERT-TEXT-HERE</code>
+<code>► Idea Orbitis a web app that helps aspiring students to capture and organize their business ideas. Users can sign up, create their Idea Book, and jot down their concepts in a structured way. It features an easy-to-use interface, customizable templates, and tools for collaboration, aiming to turn inspiration into actionable plans. Perfect for anyone starting their entrepreneurial journey.</code>
 
 ---
 
