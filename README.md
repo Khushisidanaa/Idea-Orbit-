@@ -127,12 +127,6 @@ https://ideaorbit.vercel.app/
 
 ## Getting Started
 
-**_Requirements_**
-
-Ensure you have the following dependencies installed on your system:
-
-- **TypeScript**: `version x.y.z`
-
 ### Installation
 
 1. Clone the Idea-Orbit- repository:
@@ -168,16 +162,6 @@ Use the following command to run tests:
 ```sh
 npm test
 ```
-
----
-
-## Project Roadmap
-
-- [x] `► INSERT-TASK-1`
-- [ ] `► INSERT-TASK-2`
-- [ ] `► ...`
-
----
 
 ## Contributing
 
